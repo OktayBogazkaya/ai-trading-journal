@@ -1,7 +1,5 @@
 # AI-Powered Trading Journal
 
-## Description
-
 This project aims to provide trades with insights based on their trading journal. By uploading trading journal data in CSV format, natural language questions can be asked to gain detailed insights into trades.
 
 ## Features
